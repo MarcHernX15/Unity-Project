@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -23,11 +24,13 @@ public class GameManager : MonoBehaviour
     private int Player1Score;
     private int Player2Score;
 
+    public int RoundsLevelOne;
     public void Player1Scored()
     {
         Player1Score++;
         Player1Text.GetComponent<TextMeshProUGUI>().text = Player1Score.ToString();
         ResetPosition();
+        gameWins();
     }
 
     public void Player2Scored()
@@ -35,12 +38,19 @@ public class GameManager : MonoBehaviour
         Player2Score++;
         Player2Text.GetComponent<TextMeshProUGUI>().text = Player2Score.ToString();
         ResetPosition();
+        gameWins();
     }
 
     private void ResetPosition()
     {
         ball.GetComponent<Ball>().Reset();
-        player1Paddle.GetComponent<Paddle>().Reset();
-        player2Paddle.GetComponent<Paddle>().Reset();
+        //player1Paddle.GetComponent<Paddle>().Reset();
+        //player2Paddle.GetComponent<Paddle>().Reset();
+    }
+
+    private void gameWins()
+    {
+        if (Player1Score == RoundsLevelOne) SceneManager.LoadScene("Level Two");
+        if (Player2Score == RoundsLevelOne) SceneManager.LoadScene("Level Two");
     }
 }

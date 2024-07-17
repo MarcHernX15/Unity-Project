@@ -248,7 +248,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: 'Player2Goal Variant '
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     m_RemovedGameObjects:
     - {fileID: 5057127180548797729, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     - {fileID: 8538365281877352280, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
@@ -481,7 +482,8 @@ PrefabInstance:
       propertyPath: isPlayer1Goal
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1850080456504114726, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
@@ -798,7 +800,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player2Goal Variant (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     m_RemovedGameObjects:
     - {fileID: 5057127180548797729, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     - {fileID: 8538365281877352280, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
@@ -1358,7 +1361,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8398551280660269409, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
       propertyPath: speed
-      value: 7
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1440,7 +1443,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: d6e7475a477721949a7fa2353ffb7e32, type: 2}
     - target: {fileID: 8366938851125861013, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: speed
-      value: 7
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8740482123564403976, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_Name
@@ -1569,7 +1572,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 827103b1268c065458d84cce6e5e2ad0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 20
   rb: {fileID: 2118171533}
   startPosition: {x: 0, y: 0, z: 0}
 --- !u!50 &2118171533
@@ -1774,6 +1777,7 @@ GameObject:
   - component: {fileID: 2130334677}
   - component: {fileID: 2130334676}
   - component: {fileID: 2130334675}
+  - component: {fileID: 2130334679}
   m_Layer: 0
   m_Name: 'Player 2 Core '
   m_TagString: Untagged
@@ -1950,6 +1954,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2130334679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130334674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f211b5f32e7183c4285cdd3f3ea4ca21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPlayer1Goal: 0
 --- !u!1001 &2114179599358171766
 PrefabInstance:
   m_ObjectHideFlags: 0
