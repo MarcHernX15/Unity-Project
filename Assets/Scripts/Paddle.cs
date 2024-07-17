@@ -29,6 +29,7 @@ public class Paddle : MonoBehaviour
         }
         else 
         {
+            
             movement = Input.GetAxisRaw("Vertical2");
             if (Input.GetKeyDown(KeyCode.RightControl))
             {
