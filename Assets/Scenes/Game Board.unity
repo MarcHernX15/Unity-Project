@@ -410,7 +410,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player1Goal Variant (1)
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     m_RemovedGameObjects:
     - {fileID: 5057127180548797729, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     - {fileID: 8538365281877352280, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
@@ -637,7 +638,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player1Goal Variant
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     m_RemovedGameObjects:
     - {fileID: 5057127180548797729, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     - {fileID: 8538365281877352280, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
@@ -827,6 +829,7 @@ GameObject:
   - component: {fileID: 1525680268}
   - component: {fileID: 1525680267}
   - component: {fileID: 1525680266}
+  - component: {fileID: 1525680270}
   m_Layer: 0
   m_Name: Player 1 Core
   m_TagString: Untagged
@@ -1003,6 +1006,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1525680270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1525680265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f211b5f32e7183c4285cdd3f3ea4ca21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPlayer1Goal: 1
 --- !u!1 &1544559004
 GameObject:
   m_ObjectHideFlags: 0
@@ -1986,7 +2002,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player1Goal
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 1850080456504114726, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
