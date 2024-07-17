@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 15614965}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -280,7 +280,7 @@ GameObject:
   - component: {fileID: 23805602}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -423,7 +423,7 @@ GameObject:
   - component: {fileID: 35989814}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -566,7 +566,7 @@ GameObject:
   - component: {fileID: 46993436}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -709,7 +709,7 @@ GameObject:
   - component: {fileID: 47030591}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -852,7 +852,7 @@ GameObject:
   - component: {fileID: 51156927}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -995,7 +995,7 @@ GameObject:
   - component: {fileID: 53741425}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1248,6 +1248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1344,7 +1348,7 @@ GameObject:
   - component: {fileID: 76818706}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1487,7 +1491,7 @@ GameObject:
   - component: {fileID: 78666642}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1630,7 +1634,7 @@ GameObject:
   - component: {fileID: 84643649}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1773,7 +1777,7 @@ GameObject:
   - component: {fileID: 85650621}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1916,7 +1920,7 @@ GameObject:
   - component: {fileID: 88312916}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2059,7 +2063,7 @@ GameObject:
   - component: {fileID: 88458448}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2202,7 +2206,7 @@ GameObject:
   - component: {fileID: 92244605}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2345,7 +2349,7 @@ GameObject:
   - component: {fileID: 104187285}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2488,7 +2492,7 @@ GameObject:
   - component: {fileID: 112647141}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2631,7 +2635,7 @@ GameObject:
   - component: {fileID: 114054494}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2774,7 +2778,7 @@ GameObject:
   - component: {fileID: 123859001}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2917,7 +2921,7 @@ GameObject:
   - component: {fileID: 128706882}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3060,7 +3064,7 @@ GameObject:
   - component: {fileID: 134826721}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3208,7 +3212,7 @@ GameObject:
   - component: {fileID: 140111269}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3351,7 +3355,7 @@ GameObject:
   - component: {fileID: 156812415}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3494,7 +3498,7 @@ GameObject:
   - component: {fileID: 159568955}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3637,7 +3641,7 @@ GameObject:
   - component: {fileID: 172784964}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3780,7 +3784,7 @@ GameObject:
   - component: {fileID: 174944321}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4033,6 +4037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -4129,7 +4137,7 @@ GameObject:
   - component: {fileID: 177578671}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4272,7 +4280,7 @@ GameObject:
   - component: {fileID: 179766461}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4507,7 +4515,7 @@ GameObject:
   - component: {fileID: 202747624}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4650,7 +4658,7 @@ GameObject:
   - component: {fileID: 214385617}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4793,7 +4801,7 @@ GameObject:
   - component: {fileID: 219044646}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4953,7 +4961,7 @@ GameObject:
   - component: {fileID: 232879210}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5096,7 +5104,7 @@ GameObject:
   - component: {fileID: 233337429}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5239,7 +5247,7 @@ GameObject:
   - component: {fileID: 234364213}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5382,7 +5390,7 @@ GameObject:
   - component: {fileID: 239863035}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5525,7 +5533,7 @@ GameObject:
   - component: {fileID: 243134103}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5668,7 +5676,7 @@ GameObject:
   - component: {fileID: 260637424}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5811,7 +5819,7 @@ GameObject:
   - component: {fileID: 265910338}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5954,7 +5962,7 @@ GameObject:
   - component: {fileID: 276319151}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6097,7 +6105,7 @@ GameObject:
   - component: {fileID: 299710658}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6240,7 +6248,7 @@ GameObject:
   - component: {fileID: 333410144}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6383,7 +6391,7 @@ GameObject:
   - component: {fileID: 344534637}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6526,7 +6534,7 @@ GameObject:
   - component: {fileID: 356677821}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6674,7 +6682,7 @@ GameObject:
   - component: {fileID: 377690140}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6822,7 +6830,7 @@ GameObject:
   - component: {fileID: 395945073}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6965,7 +6973,7 @@ GameObject:
   - component: {fileID: 418152267}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7108,7 +7116,7 @@ GameObject:
   - component: {fileID: 422664939}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7251,7 +7259,7 @@ GameObject:
   - component: {fileID: 422821325}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7394,7 +7402,7 @@ GameObject:
   - component: {fileID: 423787399}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7537,7 +7545,7 @@ GameObject:
   - component: {fileID: 429219707}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7702,7 +7710,7 @@ GameObject:
   - component: {fileID: 443392251}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7845,7 +7853,7 @@ GameObject:
   - component: {fileID: 447471193}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7988,7 +7996,7 @@ GameObject:
   - component: {fileID: 448725084}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8131,7 +8139,7 @@ GameObject:
   - component: {fileID: 455831925}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8274,7 +8282,7 @@ GameObject:
   - component: {fileID: 464381108}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8417,7 +8425,7 @@ GameObject:
   - component: {fileID: 465978534}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8560,7 +8568,7 @@ GameObject:
   - component: {fileID: 473146052}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8703,7 +8711,7 @@ GameObject:
   - component: {fileID: 473618647}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8846,7 +8854,7 @@ GameObject:
   - component: {fileID: 478623173}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8989,7 +8997,7 @@ GameObject:
   - component: {fileID: 485955298}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9137,7 +9145,7 @@ GameObject:
   - component: {fileID: 500055853}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9280,7 +9288,7 @@ GameObject:
   - component: {fileID: 513437140}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9423,7 +9431,7 @@ GameObject:
   - component: {fileID: 515596003}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9566,7 +9574,7 @@ GameObject:
   - component: {fileID: 516082632}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9709,7 +9717,7 @@ GameObject:
   - component: {fileID: 517322400}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9852,7 +9860,7 @@ GameObject:
   - component: {fileID: 517709870}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9995,7 +10003,7 @@ GameObject:
   - component: {fileID: 529571984}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10138,7 +10146,7 @@ GameObject:
   - component: {fileID: 532204208}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10281,7 +10289,7 @@ GameObject:
   - component: {fileID: 536038124}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10424,7 +10432,7 @@ GameObject:
   - component: {fileID: 548592411}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10567,7 +10575,7 @@ GameObject:
   - component: {fileID: 558820410}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10710,7 +10718,7 @@ GameObject:
   - component: {fileID: 563269131}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10853,7 +10861,7 @@ GameObject:
   - component: {fileID: 563620293}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10996,7 +11004,7 @@ GameObject:
   - component: {fileID: 572459588}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11139,7 +11147,7 @@ GameObject:
   - component: {fileID: 588034060}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11282,7 +11290,7 @@ GameObject:
   - component: {fileID: 590725336}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11425,7 +11433,7 @@ GameObject:
   - component: {fileID: 592857751}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11568,7 +11576,7 @@ GameObject:
   - component: {fileID: 597070681}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11711,7 +11719,7 @@ GameObject:
   - component: {fileID: 607205158}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11854,7 +11862,7 @@ GameObject:
   - component: {fileID: 612206372}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11997,7 +12005,7 @@ GameObject:
   - component: {fileID: 614828693}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12140,7 +12148,7 @@ GameObject:
   - component: {fileID: 616262007}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12283,7 +12291,7 @@ GameObject:
   - component: {fileID: 616854987}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12426,7 +12434,7 @@ GameObject:
   - component: {fileID: 616864751}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12569,7 +12577,7 @@ GameObject:
   - component: {fileID: 621074243}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12712,7 +12720,7 @@ GameObject:
   - component: {fileID: 628507332}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12872,7 +12880,7 @@ GameObject:
   - component: {fileID: 635044323}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13015,7 +13023,7 @@ GameObject:
   - component: {fileID: 651675146}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13158,7 +13166,7 @@ GameObject:
   - component: {fileID: 659501879}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13301,7 +13309,7 @@ GameObject:
   - component: {fileID: 664605984}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13444,7 +13452,7 @@ GameObject:
   - component: {fileID: 670663439}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13587,7 +13595,7 @@ GameObject:
   - component: {fileID: 680686023}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13747,7 +13755,7 @@ GameObject:
   - component: {fileID: 726080292}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13890,7 +13898,7 @@ GameObject:
   - component: {fileID: 726193205}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14033,7 +14041,7 @@ GameObject:
   - component: {fileID: 740790835}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14176,7 +14184,7 @@ GameObject:
   - component: {fileID: 748020102}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14319,7 +14327,7 @@ GameObject:
   - component: {fileID: 748528003}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14462,7 +14470,7 @@ GameObject:
   - component: {fileID: 763260051}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14605,7 +14613,7 @@ GameObject:
   - component: {fileID: 765155179}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14748,7 +14756,7 @@ GameObject:
   - component: {fileID: 768232826}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14891,7 +14899,7 @@ GameObject:
   - component: {fileID: 775994995}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15034,7 +15042,7 @@ GameObject:
   - component: {fileID: 782395668}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15177,7 +15185,7 @@ GameObject:
   - component: {fileID: 785055376}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15320,7 +15328,7 @@ GameObject:
   - component: {fileID: 791463073}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15463,7 +15471,7 @@ GameObject:
   - component: {fileID: 800864645}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15606,7 +15614,7 @@ GameObject:
   - component: {fileID: 811479671}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15749,7 +15757,7 @@ GameObject:
   - component: {fileID: 818313827}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15892,7 +15900,7 @@ GameObject:
   - component: {fileID: 826441107}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16035,7 +16043,7 @@ GameObject:
   - component: {fileID: 829548788}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16363,7 +16371,7 @@ GameObject:
   - component: {fileID: 836204096}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16580,7 +16588,7 @@ GameObject:
   - component: {fileID: 868115364}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16723,7 +16731,7 @@ GameObject:
   - component: {fileID: 872467007}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16866,7 +16874,7 @@ GameObject:
   - component: {fileID: 873133018}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17009,7 +17017,7 @@ GameObject:
   - component: {fileID: 876607201}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17152,7 +17160,7 @@ GameObject:
   - component: {fileID: 878969005}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17379,7 +17387,7 @@ GameObject:
   - component: {fileID: 892506388}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17522,7 +17530,7 @@ GameObject:
   - component: {fileID: 903299076}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17665,7 +17673,7 @@ GameObject:
   - component: {fileID: 913473201}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17808,7 +17816,7 @@ GameObject:
   - component: {fileID: 925849009}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17951,7 +17959,7 @@ GameObject:
   - component: {fileID: 927004326}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18094,7 +18102,7 @@ GameObject:
   - component: {fileID: 935724955}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18237,7 +18245,7 @@ GameObject:
   - component: {fileID: 938881030}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18380,7 +18388,7 @@ GameObject:
   - component: {fileID: 941324772}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18523,7 +18531,7 @@ GameObject:
   - component: {fileID: 948667503}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18666,7 +18674,7 @@ GameObject:
   - component: {fileID: 959756104}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18809,7 +18817,7 @@ GameObject:
   - component: {fileID: 960563775}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18952,7 +18960,7 @@ GameObject:
   - component: {fileID: 969189462}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19095,7 +19103,7 @@ GameObject:
   - component: {fileID: 970280108}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19238,7 +19246,7 @@ GameObject:
   - component: {fileID: 971432447}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19381,7 +19389,7 @@ GameObject:
   - component: {fileID: 977295483}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19524,7 +19532,7 @@ GameObject:
   - component: {fileID: 979304112}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19667,7 +19675,7 @@ GameObject:
   - component: {fileID: 981497693}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19810,7 +19818,7 @@ GameObject:
   - component: {fileID: 995415083}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19953,7 +19961,7 @@ GameObject:
   - component: {fileID: 1011460753}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20096,7 +20104,7 @@ GameObject:
   - component: {fileID: 1013067889}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20349,6 +20357,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -20449,7 +20461,7 @@ GameObject:
   - component: {fileID: 1015302433}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20592,7 +20604,7 @@ GameObject:
   - component: {fileID: 1026116416}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20735,7 +20747,7 @@ GameObject:
   - component: {fileID: 1035799276}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20878,7 +20890,7 @@ GameObject:
   - component: {fileID: 1050145042}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21021,7 +21033,7 @@ GameObject:
   - component: {fileID: 1061129099}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21164,7 +21176,7 @@ GameObject:
   - component: {fileID: 1064048191}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21307,7 +21319,7 @@ GameObject:
   - component: {fileID: 1069562574}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21450,7 +21462,7 @@ GameObject:
   - component: {fileID: 1072552942}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21593,7 +21605,7 @@ GameObject:
   - component: {fileID: 1075283155}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21736,7 +21748,7 @@ GameObject:
   - component: {fileID: 1089262726}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21879,7 +21891,7 @@ GameObject:
   - component: {fileID: 1103369044}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22094,7 +22106,7 @@ GameObject:
   - component: {fileID: 1107382994}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22237,7 +22249,7 @@ GameObject:
   - component: {fileID: 1113572086}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22490,6 +22502,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -22648,6 +22664,18 @@ PrefabInstance:
       propertyPath: player2Paddle
       value: 
       objectReference: {fileID: 381312190}
+    - target: {fileID: 1965054892292710520, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
+      propertyPath: RoundsLevelOne
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1965054892292710520, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
+      propertyPath: RoundsLevelTwo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1965054892292710520, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
+      propertyPath: RoundsLevelThree
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5629790524458228122, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
       propertyPath: m_Name
       value: GameManager
@@ -22671,7 +22699,7 @@ GameObject:
   - component: {fileID: 1147356805}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22814,7 +22842,7 @@ GameObject:
   - component: {fileID: 1148753449}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22974,7 +23002,7 @@ GameObject:
   - component: {fileID: 1158245828}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23117,7 +23145,7 @@ GameObject:
   - component: {fileID: 1164182802}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23260,7 +23288,7 @@ GameObject:
   - component: {fileID: 1194239020}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23403,7 +23431,7 @@ GameObject:
   - component: {fileID: 1223443304}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23546,7 +23574,7 @@ GameObject:
   - component: {fileID: 1223535144}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23689,7 +23717,7 @@ GameObject:
   - component: {fileID: 1226300851}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23832,7 +23860,7 @@ GameObject:
   - component: {fileID: 1232578280}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23975,7 +24003,7 @@ GameObject:
   - component: {fileID: 1243880822}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24118,7 +24146,7 @@ GameObject:
   - component: {fileID: 1276409091}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24371,6 +24399,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -24510,7 +24542,7 @@ GameObject:
   - component: {fileID: 1318073312}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24670,7 +24702,7 @@ GameObject:
   - component: {fileID: 1330662484}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24815,6 +24847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player1
       objectReference: {fileID: 0}
+    - target: {fileID: 3304494510826908330, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 7578664209678448456, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.35
@@ -24863,6 +24899,10 @@ PrefabInstance:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8398551280660269409, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 5291797292261705774, guid: f138ad098dcca7447b3a61a11c5f1586, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -24882,7 +24922,7 @@ GameObject:
   - component: {fileID: 1333416373}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25025,7 +25065,7 @@ GameObject:
   - component: {fileID: 1336995374}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25168,7 +25208,7 @@ GameObject:
   - component: {fileID: 1341013796}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25311,7 +25351,7 @@ GameObject:
   - component: {fileID: 1347832496}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25560,6 +25600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -25762,7 +25806,7 @@ GameObject:
   - component: {fileID: 1385693926}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25922,7 +25966,7 @@ GameObject:
   - component: {fileID: 1387402842}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26065,7 +26109,7 @@ GameObject:
   - component: {fileID: 1388224419}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26208,7 +26252,7 @@ GameObject:
   - component: {fileID: 1391536432}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26351,7 +26395,7 @@ GameObject:
   - component: {fileID: 1396941884}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26494,7 +26538,7 @@ GameObject:
   - component: {fileID: 1405247487}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26637,7 +26681,7 @@ GameObject:
   - component: {fileID: 1406083411}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26780,7 +26824,7 @@ GameObject:
   - component: {fileID: 1419461672}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26923,7 +26967,7 @@ GameObject:
   - component: {fileID: 1426346934}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27066,7 +27110,7 @@ GameObject:
   - component: {fileID: 1444234890}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27209,7 +27253,7 @@ GameObject:
   - component: {fileID: 1453351758}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27352,7 +27396,7 @@ GameObject:
   - component: {fileID: 1456201877}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27495,7 +27539,7 @@ GameObject:
   - component: {fileID: 1465311527}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27638,7 +27682,7 @@ GameObject:
   - component: {fileID: 1479520830}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27781,7 +27825,7 @@ GameObject:
   - component: {fileID: 1488857310}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27924,7 +27968,7 @@ GameObject:
   - component: {fileID: 1499966980}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28177,6 +28221,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -28401,6 +28449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -28537,7 +28589,7 @@ GameObject:
   - component: {fileID: 1526983113}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28680,7 +28732,7 @@ GameObject:
   - component: {fileID: 1531614523}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28823,7 +28875,7 @@ GameObject:
   - component: {fileID: 1542422323}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28966,7 +29018,7 @@ GameObject:
   - component: {fileID: 1552080063}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29109,7 +29161,7 @@ GameObject:
   - component: {fileID: 1564864825}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29252,7 +29304,7 @@ GameObject:
   - component: {fileID: 1572233009}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29395,7 +29447,7 @@ GameObject:
   - component: {fileID: 1576863050}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29543,7 +29595,7 @@ GameObject:
   - component: {fileID: 1593625928}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29686,7 +29738,7 @@ GameObject:
   - component: {fileID: 1595217726}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29829,7 +29881,7 @@ GameObject:
   - component: {fileID: 1602918553}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30082,6 +30134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -30196,7 +30252,7 @@ GameObject:
   - component: {fileID: 1617757603}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30339,7 +30395,7 @@ GameObject:
   - component: {fileID: 1618781271}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30482,7 +30538,7 @@ GameObject:
   - component: {fileID: 1619864515}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30625,7 +30681,7 @@ GameObject:
   - component: {fileID: 1621917185}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30768,7 +30824,7 @@ GameObject:
   - component: {fileID: 1632893510}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30911,7 +30967,7 @@ GameObject:
   - component: {fileID: 1638742240}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31164,6 +31220,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -31275,7 +31335,7 @@ GameObject:
   - component: {fileID: 1671273941}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31528,6 +31588,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -31646,7 +31710,7 @@ GameObject:
   - component: {fileID: 1674852074}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31794,7 +31858,7 @@ GameObject:
   - component: {fileID: 1685936240}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31937,7 +32001,7 @@ GameObject:
   - component: {fileID: 1710492889}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32080,7 +32144,7 @@ GameObject:
   - component: {fileID: 1711608734}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32223,7 +32287,7 @@ GameObject:
   - component: {fileID: 1719320185}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32366,7 +32430,7 @@ GameObject:
   - component: {fileID: 1720892363}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32509,7 +32573,7 @@ GameObject:
   - component: {fileID: 1724089906}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32652,7 +32716,7 @@ GameObject:
   - component: {fileID: 1724676100}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32795,7 +32859,7 @@ GameObject:
   - component: {fileID: 1733747194}
   m_Layer: 0
   m_Name: Blue Stone (21)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32938,7 +33002,7 @@ GameObject:
   - component: {fileID: 1737773850}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33081,7 +33145,7 @@ GameObject:
   - component: {fileID: 1740153334}
   m_Layer: 0
   m_Name: Blue Stone (10)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33224,7 +33288,7 @@ GameObject:
   - component: {fileID: 1744629022}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33367,7 +33431,7 @@ GameObject:
   - component: {fileID: 1750714204}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33510,7 +33574,7 @@ GameObject:
   - component: {fileID: 1752077754}
   m_Layer: 0
   m_Name: Blue Stone (1)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33670,7 +33734,7 @@ GameObject:
   - component: {fileID: 1763207157}
   m_Layer: 0
   m_Name: Blue Stone (11)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33813,7 +33877,7 @@ GameObject:
   - component: {fileID: 1774700104}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33956,7 +34020,7 @@ GameObject:
   - component: {fileID: 1795901052}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34099,7 +34163,7 @@ GameObject:
   - component: {fileID: 1817752754}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34242,7 +34306,7 @@ GameObject:
   - component: {fileID: 1836728676}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34385,7 +34449,7 @@ GameObject:
   - component: {fileID: 1838866661}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34528,7 +34592,7 @@ GameObject:
   - component: {fileID: 1846332819}
   m_Layer: 0
   m_Name: Blue Stone (18)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34671,7 +34735,7 @@ GameObject:
   - component: {fileID: 1851722312}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34814,7 +34878,7 @@ GameObject:
   - component: {fileID: 1852180173}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34957,7 +35021,7 @@ GameObject:
   - component: {fileID: 1859655725}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35100,7 +35164,7 @@ GameObject:
   - component: {fileID: 1883490452}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35260,7 +35324,7 @@ GameObject:
   - component: {fileID: 1894830235}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35403,7 +35467,7 @@ GameObject:
   - component: {fileID: 1897009279}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35546,7 +35610,7 @@ GameObject:
   - component: {fileID: 1899115253}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35689,7 +35753,7 @@ GameObject:
   - component: {fileID: 1911087079}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35832,7 +35896,7 @@ GameObject:
   - component: {fileID: 1925273334}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35975,7 +36039,7 @@ GameObject:
   - component: {fileID: 1949174351}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36118,7 +36182,7 @@ GameObject:
   - component: {fileID: 1949695841}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36278,7 +36342,7 @@ GameObject:
   - component: {fileID: 1968267491}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36421,7 +36485,7 @@ GameObject:
   - component: {fileID: 1969736436}
   m_Layer: 0
   m_Name: Blue Stone (3)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36674,6 +36738,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -36774,7 +36842,7 @@ GameObject:
   - component: {fileID: 1977586427}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36917,7 +36985,7 @@ GameObject:
   - component: {fileID: 1982410038}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37060,7 +37128,7 @@ GameObject:
   - component: {fileID: 1987406456}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37203,7 +37271,7 @@ GameObject:
   - component: {fileID: 1990657030}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37419,7 +37487,7 @@ GameObject:
   - component: {fileID: 2003845061}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37562,7 +37630,7 @@ GameObject:
   - component: {fileID: 2004754366}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37705,7 +37773,7 @@ GameObject:
   - component: {fileID: 2007706290}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37848,7 +37916,7 @@ GameObject:
   - component: {fileID: 2014468833}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37991,7 +38059,7 @@ GameObject:
   - component: {fileID: 2017823217}
   m_Layer: 0
   m_Name: Blue Stone (9)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38134,7 +38202,7 @@ GameObject:
   - component: {fileID: 2018081972}
   m_Layer: 0
   m_Name: Blue Stone (5)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38277,7 +38345,7 @@ GameObject:
   - component: {fileID: 2024183321}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38420,7 +38488,7 @@ GameObject:
   - component: {fileID: 2025529904}
   m_Layer: 0
   m_Name: Blue Stone (7)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38563,7 +38631,7 @@ GameObject:
   - component: {fileID: 2027153999}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38706,7 +38774,7 @@ GameObject:
   - component: {fileID: 2027824841}
   m_Layer: 0
   m_Name: Blue Stone (17)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38849,7 +38917,7 @@ GameObject:
   - component: {fileID: 2056646044}
   m_Layer: 0
   m_Name: Blue Stone (12)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38992,7 +39060,7 @@ GameObject:
   - component: {fileID: 2060791689}
   m_Layer: 0
   m_Name: Blue Stone (16)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39245,6 +39313,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8867427881717858159, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -39469,6 +39541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Blue Stone
       objectReference: {fileID: 0}
+    - target: {fileID: 6205289558338003717, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
+      propertyPath: m_TagString
+      value: Target
+      objectReference: {fileID: 0}
     - target: {fileID: 8825859794199874236, guid: e4cbb4ffafb1dea45ad282345818f312, type: 3}
       propertyPath: isPlayer1Goal
       value: 0
@@ -39587,7 +39663,7 @@ GameObject:
   - component: {fileID: 2077432782}
   m_Layer: 0
   m_Name: Blue Stone (4)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39730,7 +39806,7 @@ GameObject:
   - component: {fileID: 2081020267}
   m_Layer: 0
   m_Name: Blue Stone (13)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39873,7 +39949,7 @@ GameObject:
   - component: {fileID: 2090391107}
   m_Layer: 0
   m_Name: Blue Stone (20)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40016,7 +40092,7 @@ GameObject:
   - component: {fileID: 2098166837}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40159,7 +40235,7 @@ GameObject:
   - component: {fileID: 2113142695}
   m_Layer: 0
   m_Name: Blue Stone (19)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40302,7 +40378,7 @@ GameObject:
   - component: {fileID: 2117534289}
   m_Layer: 0
   m_Name: Blue Stone (14)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40445,7 +40521,7 @@ GameObject:
   - component: {fileID: 2123442248}
   m_Layer: 0
   m_Name: Blue Stone (8)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40588,7 +40664,7 @@ GameObject:
   - component: {fileID: 2127657634}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40731,7 +40807,7 @@ GameObject:
   - component: {fileID: 2132831402}
   m_Layer: 0
   m_Name: Blue Stone (15)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40874,7 +40950,7 @@ GameObject:
   - component: {fileID: 2140545235}
   m_Layer: 0
   m_Name: Blue Stone (6)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41029,19 +41105,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -41049,11 +41125,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705027080454062398, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
+      propertyPath: m_FlipY
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6705027080454062398, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_Color.b
@@ -41075,9 +41155,17 @@ PrefabInstance:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8366938851125861013, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 5291797292261705774, guid: f138ad098dcca7447b3a61a11c5f1586, type: 3}
     - target: {fileID: 8740482123564403976, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_Name
       value: Player2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8740482123564403976, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41098,7 +41186,7 @@ GameObject:
   - component: {fileID: 2145999849}
   m_Layer: 0
   m_Name: Blue Stone (2)
-  m_TagString: Untagged
+  m_TagString: Target
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

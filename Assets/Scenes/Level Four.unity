@@ -1726,19 +1726,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1746,7 +1746,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 180
       objectReference: {fileID: 0}
     - target: {fileID: 5434915079997497695, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -42937,6 +42937,18 @@ PrefabInstance:
       propertyPath: player2Paddle
       value: 
       objectReference: {fileID: 1410840079}
+    - target: {fileID: 1965054892292710520, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
+      propertyPath: RoundsLevelOne
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1965054892292710520, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
+      propertyPath: RoundsLevelTwo
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1965054892292710520, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
+      propertyPath: RoundsLevelThree
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5629790524458228122, guid: f2411efdf0a5bb34cb74845b20c7ce7b, type: 3}
       propertyPath: m_Name
       value: GameManager
