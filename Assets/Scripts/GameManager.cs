@@ -25,6 +25,7 @@ public class GameManager : MonoBehaviour
     private int Player2Score;
 
     public int RoundsLevelOne;
+    public int RoundsLevelTwo;
     public void Player1Scored()
     {
         Player1Score++;
@@ -52,5 +53,7 @@ public class GameManager : MonoBehaviour
     {
         if (Player1Score == RoundsLevelOne) SceneManager.LoadScene("Level Two");
         if (Player2Score == RoundsLevelOne) SceneManager.LoadScene("Level Two");
+        if (Player1Score == RoundsLevelTwo) SceneManager.LoadScene("Level Three");
+        if (Player2Score == RoundsLevelTwo) SceneManager.LoadScene("Level Three");
     }
 }
