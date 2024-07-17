@@ -30,7 +30,7 @@ public class Paddle : MonoBehaviour
         else 
         {
             movement = Input.GetAxisRaw("Vertical2");
-            if (Input.GetKeyDown(KeyCode.RightShift))
+            if (Input.GetKeyDown(KeyCode.RightControl))
             {
                 GameObject b = (GameObject)(Instantiate(bullet, transform.position + transform.right * 1.5f, Quaternion.identity));
                 b.GetComponent<Rigidbody2D>().AddForce(transform.right * 1000);
