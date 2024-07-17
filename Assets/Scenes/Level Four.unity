@@ -1768,9 +1768,17 @@ PrefabInstance:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8366938851125861013, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 5291797292261705774, guid: f138ad098dcca7447b3a61a11c5f1586, type: 3}
     - target: {fileID: 8740482123564403976, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
       propertyPath: m_Name
       value: Player2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8740482123564403976, guid: 0d6cf92cb0ae6824ca7c49f62a6ebe2f, type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -83446,6 +83454,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player1
       objectReference: {fileID: 0}
+    - target: {fileID: 3304494510826908330, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 7578664209678448456, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.5
@@ -83498,6 +83510,10 @@ PrefabInstance:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 8398551280660269409, guid: 59dbf6235e6634c4582ac5394997ae34, type: 3}
+      propertyPath: bullet
+      value: 
+      objectReference: {fileID: 5291797292261705774, guid: f138ad098dcca7447b3a61a11c5f1586, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
