@@ -27,6 +27,7 @@ public class GameManager : MonoBehaviour
     public int RoundsLevelOne;
     public int RoundsLevelTwo;
     public int RoundsLevelThree;
+    public int RoundsLevelFour;
     public void Player1Scored()
     {
         Player1Score++;
@@ -58,5 +59,7 @@ public class GameManager : MonoBehaviour
         if (Player2Score == RoundsLevelTwo) SceneManager.LoadScene("Level Three");
         if (Player1Score == RoundsLevelThree) SceneManager.LoadScene("Level Four");
         if (Player2Score == RoundsLevelThree) SceneManager.LoadScene("Level Four");
+        if (Player1Score == RoundsLevelFour) SceneManager.LoadScene("Level Five");
+        if (Player2Score == RoundsLevelFour) SceneManager.LoadScene("Level Five");
     }
 }
